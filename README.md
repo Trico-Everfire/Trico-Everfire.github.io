@@ -6,7 +6,7 @@ portal 2.
 
 I have extensive knowledge in:
 Javascript (5~ years experience), Typescript (1.5~ years experience),
-C++ (1~ years experience) and Java (2~ years).
+C++ (1~ years experience) and Java (2~ years experience).
 
 # Associated with:
 I've worked on quite a few professional projects, most of which were under NDA
