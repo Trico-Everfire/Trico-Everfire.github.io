@@ -24,8 +24,8 @@ Such project include:
     The Last Doctor is a yet to be released custom coded game
     created by a medical student in the attempt to make 
     learning medical information easier for med students. 
-    It's a professional developer, I can't tell much due to
-    NDA restrictions.
+    It's a professionally developed game. I sadly can't tell much
+    due to NDA restrictions.
 
 ### TheUnproPro&#46;com:
     TheUnproPro.com is a discontinued website that made it easy to
