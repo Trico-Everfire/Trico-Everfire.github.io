@@ -69,5 +69,5 @@ There are a bunch of open source projects I contributed to:
     - to allow loot tables to be chosen for loot.
     - set the start and end time for the star spawning (also per world).
     
-    as well as some other smaller features. This PR is sitll currently in
+    as well as some other smaller features. This PR is still currently in
     review.
