@@ -63,7 +63,7 @@ There are a bunch of open source projects I contributed to:
     
 ### [Celeste (minecraft plugin)](https://github.com/IdreesInc/Celeste/pull/5)
     Celeste is a small minecraft plugin that aims to add shooting stars to minecraft
-    I make a Pull Request that adds:
+    I made a Pull Request that adds:
     - support for multiple minecraft worlds to have stars.
     - for the amount of stars to be a per world option.
     - to allow loot tables to be chosen for loot.
