@@ -5,8 +5,8 @@ My hobbies include coding, gaming and making maps for games like
 portal 2.
 
 I have extensive knowledge in:
-Javascript (5~ years experience), Typescript (1.5~ years experience),
-C++ (1~ years experience) and Java (2~ years experience).
+Javascript (6~ years experience), Typescript (2~ years experience),
+C++ (1.5~ years experience) and Java (2~ years experience).
 
 # Associated with:
 I've worked on quite a few professional projects, most of which were under NDA
@@ -69,5 +69,21 @@ There are a bunch of open source projects I contributed to:
     - to allow loot tables to be chosen for loot.
     - set the start and end time for the star spawning (also per world).
     
-    as well as some other smaller features. This PR is still currently in
-    review.
+    as well as some other smaller features.
+    
+### [P2CE Panorama UI](https://github.com/ChaosInitiative/p2ce-panorama-ui/tree/new-menu)
+    The Panorama UI is a User Interface for the Source Engine, P2CE's branch of Panorama
+    UI is open to the public and allows contributors to help out. I myself have made
+    quite a few elements such as the New Game menu and associated options, I still
+    actively develop Panorama for P2CE.
+
+### VTF Edit Revitalized
+Although as of typing it it isn't yet open source. When feature functional it'll be fully
+    open source on GitHub with a 
+[MIT License](https://opensource.org/licenses/MIT)
+    VTF Edit Revitalized is a multi platform alternative to [VTF Edit](https://github.com/NeilJed/VTFLib) Developed by me. A GUI based texture and text processing tool. The goal for VTF Edit Revitalized is to improve and expand upon what VTF Edit does by adding new functionality and streamlining the process of processing the textures and text.
+
+### [P2CE Discord Bot](https://github.com/ChaosInitiative/p2ce-discord-bot)
+    The P2CE Discord Bot is a Discord bot for the P2CE Discord server to help with moderation
+    and automating tasks. I myself have contributed to this bot, adding a mass ping spam filter.
+    I hope to contribute more in the future.
