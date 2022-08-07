@@ -80,8 +80,8 @@ There are a bunch of open source projects I contributed to:
 ### VTF Edit Revitalized
 Although as of typing it it isn't yet open source. When feature functional it'll be fully
     open source on GitHub with a 
-[MIT License](https://opensource.org/licenses/MIT)
-    VTF Edit Revitalized is a multi platform alternative to [VTF Edit](https://github.com/NeilJed/VTFLib) Developed by me. A GUI based texture and text processing tool. The goal for VTF Edit Revitalized is to improve and expand upon what VTF Edit does by adding new functionality and streamlining the process of processing the textures and text.
+[MIT License](https://opensource.org/licenses/MIT).
+    VTF Edit Revitalized is a C++ QT based multi platform alternative to [VTF Edit](https://github.com/NeilJed/VTFLib) Developed by me. A GUI based texture and text processing tool. The goal for VTF Edit Revitalized is to improve and expand upon what VTF Edit does by adding new functionality and streamlining the process of processing the textures and text.
 
 ### [P2CE Discord Bot](https://github.com/ChaosInitiative/p2ce-discord-bot)
     The P2CE Discord Bot is a Discord bot for the P2CE Discord server to help with moderation
