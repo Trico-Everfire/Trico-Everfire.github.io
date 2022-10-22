@@ -87,3 +87,19 @@ Although as of typing it it isn't yet open source. When feature functional it'll
     The P2CE Discord Bot is a Discord bot for the P2CE Discord server to help with moderation
     and automating tasks. I myself have contributed to this bot, adding a mass ping spam filter.
     I hope to contribute more in the future.
+
+### [Mounts.kv File Generator](https://github.com/Trico-Everfire/mountskv)
+    A chaos appropriate Mounts.kv generator, mounting games in the Chaos environment
+    is done through a file called Mounts.kv, it grabs the assets from other Source Engine
+    games and allows you to use them in the Chaos game you're running (currenly of the time
+    of writing this 3 are in development: Momentum Mod, Portal 2: Community Edition, and
+    Portal: Revolution). This file can be hard to understand, requiring knowledge of Steam
+    app ids and game mount locations to use if you want more than the basic presets.
+    [mountskv](https://github.com/Trico-Everfire/mountskv) allows you to easily mount
+    any Source Engine game you have installed via a small GUI.
+
+### [Steam App Path Provider(https://github.com/Trico-Everfire/SteamAppPathProvider)
+    Steam App Path Provider (SAPP for short) is the sister project of [mountskv](https://github.com/Trico-Everfire/mountskv) and is designed to fetch the various games you have installed
+    on your system across multiple drives on both Windows and Linux OS. It does this WITHOUT
+    the [Steam API](https://partner.steamgames.com/doc/sdk) and does not require steam to be
+    running to use. (unlike any application that utilises the Steam API).
